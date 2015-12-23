@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://nguonthucphamchucnang.net' target='_blank'><img src='http://1.bp.blogspot.com/-0yubr_5IIRQ/VnqX6GHm7WI/AAAAAAAAIBs/YyzNhzOEqp4/s640/Untitled-2.png' width='500px'/>Cung cấp sỉ và lẻ thực phẩm chức năng</a>. hotline :0906.557.906. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://nguonthucphamchucnang.net' target='_blank'><img src='http://1.bp.blogspot.com/-0yubr_5IIRQ/VnqX6GHm7WI/AAAAAAAAIBs/YyzNhzOEqp4/s640/Untitled-2.png' width='500px'/>Cung cấp sỉ và lẻ thực phẩm chức năng và mỹ phẩm</a>. hotline :0906.557.906 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
